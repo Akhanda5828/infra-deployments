@@ -1,7 +1,0 @@
-replicaCount: 1
-image:
-  repository: registry.gitlab.com/YOUR_NAMESPACE/frontend-app
-  tag: latest
-service:
-  type: NodePort
-  port: 80
